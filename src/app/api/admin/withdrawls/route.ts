@@ -1,5 +1,5 @@
 import { dbConnect } from "@/lib/dbConnect";
-import Withdrawal from "@/models/Withdrawl";
+import Withdrawal from "@/models/Withdrawal";
 import { brandValidationSchema } from "@/types/schemas";
 import { isValidObjectId } from "mongoose";
 

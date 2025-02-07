@@ -17,6 +17,7 @@
     "axios": "^1.7.9",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
     "dotenv": "^16.4.7",
     "jest-environment-jsdom": "^29.7.0",
     "lucide-react": "^0.474.0",
@@ -25,6 +26,7 @@
     "nodemailer": "^6.10.0",
     "react": "^18",
     "react-dom": "^18",
+    "stripe": "^17.6.0",
     "tailwind-merge": "^3.0.1",
     "tailwindcss-animate": "^1.0.7",
     "zod": "^3.24.1"
